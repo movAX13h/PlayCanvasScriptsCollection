@@ -1,0 +1,2 @@
+# PlayCanvasScriptsCollection
+PlayCanvas scripts
