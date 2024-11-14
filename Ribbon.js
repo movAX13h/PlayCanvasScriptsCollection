@@ -94,7 +94,7 @@ Ribbon.prototype.initialize = function () {
 
     this.entity.addComponent('render', {
         meshInstances: [this.meshInstance],
-        layers: [this.app.scene.layers.getLayerByName('Ball').id]
+        layers: [this.app.scene.layers.getLayerByName('World').id]
     });
 
     this.entity.render.castShadows = false;
